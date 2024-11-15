@@ -7,6 +7,9 @@ installing tailwind css.
 Login/ Sign up page
   - Login/sign up form
   - should redirect to browse page
+  -Header
+  - Login form
+  -Sign up form
 
 Browse page (after authentication)
  -Header
